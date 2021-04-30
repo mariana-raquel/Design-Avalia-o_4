@@ -1,0 +1,148 @@
+body {
+    background-color: #EBC1F7;
+}
+
+/* CSS referente ao formulário */
+#a {
+    text-align: center;
+}
+#b {
+    background-color: powderblue;
+    width: 500px;
+    padding: 20px 40px;
+    margin: auto;
+}
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin-left: 60px;
+}
+textarea {
+    margin-left: 60px;
+    width: 365px;
+    height: 100px;
+}
+input {
+    width: 215px;
+}
+#botão {
+    width: 100px;
+    margin-left: 130px;
+}
+#botão2 {
+    width: 100px;
+}
+
+/* CSS referente "Criação da base de dados" */
+.a1 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+/* CSS referente "Criação da tabela" */
+.a2 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+/* CSS referente "Inserindo os livros "*/
+.a3 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+/* CSS referente "Atualizando os livros" */
+.a4 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+/* CSS referente "Excluindo os livros"*/
+.a5 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+#fieldset {
+    background-color: powderblue;
+    width: 500px;
+    padding: 20px 40px;
+    margin: auto;
+}
+#label {
+    display: block;
+    width: 230px;
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#input {
+    width: 215px;
+    margin-top: 2px;
+}
+#botão3 {
+    width: 80px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+/* CSS referente "Consultando os livros"*/
+.a6 { 
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 50px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.b6 {
+    text-align: center;
+    background-color: powderblue;
+    border: 1px black solid;
+    margin: 20px 500px 10px 500px;
+    padding: 10px;
+    font-size: 30px;
+}
+#tabela {
+    border-collapse: collapse;
+    border-color: black;
+}
+tr {
+    height: 50px;
+}
+td {
+    background-color: powderblue;
+    text-align: center;
+    width: 200px;
+}
+th {
+    width: 200px;
+    text-align: center;
+    background-color: hotpink;
+}
